@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+
+# Virtual environments
+.venv
+
+# Connection details
+.env
+
+# Logs and generated data (contain production entity data — share them deliberately)
+*.log
+cleanup_plan.xlsx
+cleanup_plan.csv
+cleanup_main.sql
+cleanup_auth.sql
